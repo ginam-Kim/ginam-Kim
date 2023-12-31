@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2&height=150&section=header&text=Ginam%20Kim&fontSize=40&fontAlignY=30&fontAlign=20)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=3&height=150&section=header&text=Ginam%20Kim&fontSize=40&fontAlignY=30&fontAlign=20)
 
 > **About Me**
 - 🏫 I'm currently studying at Chung-Ang University, in South Korea.
