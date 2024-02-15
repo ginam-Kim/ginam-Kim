@@ -2,7 +2,7 @@
 
 > **About Me**
 - 🏫 I'm currently studying at Chung-Ang University, in South Korea.
-- 🧑🏻‍💻 I'm majoring in Applied Statistics and Computer Science.
+- 🧑🏻‍💻 I'm majoring in Applied Statistics.
 - ❤️‍🔥 I'm interested in various study related to data.
 
 
